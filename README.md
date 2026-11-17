@@ -30,9 +30,9 @@ Participating in the CTF has inspired me to adapt online CTFs such as OverTheWir
 Cryptography and pivoting were the hardest categories for me. Before the next CTF, I plan to review my notes, practice those areas on platforms like OverTheWire and TryHackMe, and get faster with the tools I used.
 
 ## National Cyber League CTF Score Reports
-Individual Game Report: https://cyberskyline.com/report/E0T4J8DEKR6H
+Individual Game Report: [PDF](https://github.com/6la4ne/cybersecurity-portfolio/blob/main/Cyber%20Skyline%20Individual%20Game%20Report%20Fall%202026.pdf) | [Verification link](https://cyberskyline.com/report/E0T4J8DEKR6H)
 
-Team Game Report: https://cyberskyline.com/report/NNXVA1K62CDT
+Team Game Report: [PDF](https://github.com/6la4ne/cybersecurity-portfolio/blob/main/Cyber%20Skyline%20Team%20Game%20Report%20Fall%202026.pdf) | [Verification Link](https://cyberskyline.com/report/NNXVA1K62CDT)
 
 ## Certifications
 GIAC Foundational Cybersecurity Technologies
