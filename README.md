@@ -28,7 +28,7 @@ I also gained experience leading a team by volunteering as team captain during t
 Participating in the CTF has inspired me to adapt online CTFs such as OverTheWire:Wargames, Hack The Box, and TryHackMe as an efficient way to learn security concepts with a hands-on approach.
 
 ## Reflection
-Cryptography and pivoting were the hardest categories for me. Before the next CTF, I plan to review my notes, practice those areas on platforms like OverTheWire and TryHackMe, and get faster with the tools I used.
+Cryptography and web application exploitation were the hardest categories for me. Before the next CTF, I plan to review my notes, practice those areas on platforms like OverTheWire and TryHackMe, and get faster with the tools I used.
 
 ## National Cyber League CTF Score Reports
 - Individual Game Report: [PDF](https://github.com/6la4ne/cybersecurity-portfolio/blob/main/Cyber%20Skyline%20Individual%20Game%20Report%20Fall%202026.pdf) | [Verification Link](https://cyberskyline.com/report/E0T4J8DEKR6H)
